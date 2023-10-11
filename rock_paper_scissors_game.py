@@ -26,7 +26,7 @@ scissors = '''
 ---.__(___)
 '''
 
-#Write your code below this line 👇
+#Here we go!!!
 a = [0,1,2]
 user = int(input("enter your choice from 0, 1 or 2: "))
 computer = random.choice(a)
